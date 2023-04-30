@@ -19,7 +19,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <h5 align="left">Mobile applications development:</h5>
 <p align="left">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Apple_iOS_logo.svg/1920px-Apple_iOS_logo.svg" alt="ios" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Apple_iOS_logo.svg/1200px-Apple_iOS_logo.svg.png" alt="ios" width="40" height="40"/> 
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
 </p>
