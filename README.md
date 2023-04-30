@@ -17,13 +17,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<h5 align="left">Mobile applications development:</h5>
+<h4 align="left">Mobile applications development:</h4>
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/IOS_logo.svg" alt="ios" width="40" height="40"/> 
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" alt="android" width="40" height="40"/> 
 </p>
-<h5 align="left">Programming languages:</h5>
+<h4 align="left">Programming languages:</h4>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
@@ -32,19 +32,19 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </p>
-<h5 align="left">Database:</h5>
+<h4 align="left">Database:</h4>
 <p align="left">
 <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </p>
-<h5 align="left">Designing applications:</h5>
+<h4 align="left">Designing applications:</h4>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 </p>
-<h5 align="left">Other tools:</h5>
+<h4 align="left">Other tools:</h4>
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
