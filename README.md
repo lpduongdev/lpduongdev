@@ -21,7 +21,7 @@
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/IOS_logo.svg" alt="ios" width="40" height="40"/> 
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+<img src="https://www.gstatic.com/devrel-devsite/prod/v7d5fa6e40a039b81c27b0cf865f2e8926da1a55b440a1d59c186a490be9749f9/android/images/lockup.svg" alt="android" width="40" height="40"/> 
 </p>
 <h5 align="left">Programming languages:</h5>
 <p align="left">
