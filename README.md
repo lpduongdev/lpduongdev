@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lpduongdev&label=Profile%20views&color=0e75b6&style=flat" alt="lpduongdev" /> </p>
 
-- 🌱 I’m currently learning **iOS, Android, React Native**
+- 🌱 I’m currently **iOS Developer**
 
 - 📫 How to reach me **lpduong.dev@gmail.com**
 
